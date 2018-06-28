@@ -1,0 +1,40 @@
+body {
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    height: 95vh;
+    margin: 0;
+}
+
+.block {
+    align-items: center;
+    display: flex;
+    height: 80%;
+    justify-content: center;
+    text-align: center;
+}
+
+.block .container {
+    width: 700px;
+}
+
+.block .container article {
+    margin: 20px;
+    padding: 10px;
+}
+
+.block .container article ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.block .container article li {
+    list-style-type: none;
+    min-width: 100px;
+    padding: 10px;
+}
+
+.block .container article a {
+    padding: 10px;
+}
