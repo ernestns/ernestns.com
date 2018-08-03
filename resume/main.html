@@ -2,7 +2,13 @@
 <html lang="en">
 
 <head>
-    <meta http-equiv="Refresh" content="0;url=https://drive.google.com/file/d/15rRVyot9xtnKKA8JuWLOO-FFWRZdFHOu/view">
+    <script type="text/javascript">
+        var url = "https://drive.google.com/file/d/1nWKyReDMlS1Qry_3NnZObjM9XOLWcWxx/view";
+        window.location.replace(url);
+        document.addEventListener('DOMContentLoaded', function () {
+            document.getElementById("resume").setAttribute("href", url);
+        }, false);
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 
@@ -10,8 +16,7 @@
     <p>You're being redirected to my Google Drive.</p>
     <p>
         If you're seeing this message, please click this
-        <a href="https://drive.google.com/file/d/1nWKyReDMlS1Qry_3NnZObjM9XOLWcWxx/view">link</a>
-        to view my resume.
+        <a id="resume">link</a> to view my resume.
     </p>
     <p></p>
     <p>If the link does not work, you can reach me at
