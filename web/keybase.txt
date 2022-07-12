@@ -1,1 +1,56 @@
-hello world
+==================================================================
+https://keybase.io/ernestns
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ernestns.com
+  * I am ernestns (https://keybase.io/ernestns) on keybase.
+  * I have a public key ASDvhbudPyowZa0eMgsHw0xdiPYoGr_FBwroDKmbQUEAGQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ef85bb9d3f2a3065ad1e320b07c34c5d88f6281abfc5070ae80ca99b414100190a",
+      "host": "keybase.io",
+      "kid": "0120ef85bb9d3f2a3065ad1e320b07c34c5d88f6281abfc5070ae80ca99b414100190a",
+      "uid": "7630aecde33387e1dff9845f5e8d7119",
+      "username": "ernestns"
+    },
+    "merkle_root": {
+      "ctime": 1657592361,
+      "hash": "ddd25c9e9501cf0142ff6f9a1ccd0288c79d7ef97c942a49c32aaf261b88093d4650ab36025b13c5da97cd4a415f3ce4a035982990c4c2fca04c6df7a85e1ed0",
+      "hash_meta": "1493359c705abbdaebfdc65e5187fce63f7c64036dd4b2d588eedd8af1588e81",
+      "seqno": 22832301
+    },
+    "service": {
+      "entropy": "44xwXcRJb8rzfVkAfgs5YV24",
+      "hostname": "ernestns.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1657592465,
+  "expire_in": 504576000,
+  "prev": "ededf69ec555f553c6dc1ce0a77c5b8db9e62f2821c235aa62d58032e109bd90",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg74W7nT8qMGWtHjILB8NMXYj2KBq/xQcK6Aypm0FBABkKp3BheWxvYWTESpcCEcQg7e32nsVV9VPG3Bzgp3xbjbnmLyghwjWqYtWAMuEJvZDEIOxHbQiCtGB+bAPMv7AZRNvb44vdBuM7MWS9ZongNid+AgHCo3NpZ8RANN7fmLk6Nn241Moo8psZTvX73/Ri8Y0qCy33HDpCWcpkzCdAOrEDQ5JpIUn2Vu1XUmfKXf1n6S0lteEiowFRB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICrWV1xLYeqqRC37HL0QUe/60YDMzXwZaSMH5aWk4paYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ernestns
+
+==================================================================
