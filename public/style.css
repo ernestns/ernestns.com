@@ -1,7 +1,6 @@
 body {
-    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
     height: 95vh;
-    margin: 0;
 }
 
 .block {
@@ -17,7 +16,7 @@ body {
 }
 
 .block .container article {
-    margin: 20px;
+    margin: 25px;
     padding: 10px;
 }
 
@@ -32,9 +31,5 @@ body {
 .block .container article li {
     list-style-type: none;
     min-width: 100px;
-    padding: 10px;
-}
-
-.block .container article a {
     padding: 10px;
 }
