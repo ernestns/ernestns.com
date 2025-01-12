@@ -1,6 +1,7 @@
 body {
     font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
     height: 95vh;
+    caret-color: transparent;
 }
 
 .block {
